@@ -1,0 +1,8 @@
+{
+    "origin": "UAIDTIN-ALPHA-07",
+    "target": "Energy-Grid",
+    "instruction": "RESTRUCTURE_AND_SETTLE",
+    "m2m_payment_status": "TRIGGERED",
+    "asset_hash": "adf539912141",
+    "human_bypass": true
+}
