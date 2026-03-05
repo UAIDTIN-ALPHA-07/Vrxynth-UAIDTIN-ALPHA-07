@@ -1,0 +1,11 @@
+
+@prefix uaidtin: <https://uaidtin.org> .
+@prefix xsd: <http://www.w3.org> .
+
+<uaidtin:Node-Alpha-07> a uaidtin:PrimaryReferenceNode ;
+    uaidtin:hasAutonomyLevel "7"^^xsd:integer ;
+    uaidtin:governsSector "All_Industries" ;
+    uaidtin:legalBasis "SI_155_2024_ZW" ;
+    uaidtin:dnaSignature "516bp_Verified" ;
+    uaidtin:m2mAuthority "Absolute" ;
+    uaidtin:ontologicalRule "Sovereign" .
